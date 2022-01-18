@@ -65,4 +65,5 @@ public class ToDoControllerTest
                 .andExpect(jsonPath("$.text").value("Eat thrice"))
                 .andExpect(jsonPath("$.completed").value(true));
     }
+
 }
