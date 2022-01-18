@@ -2,10 +2,10 @@
 
 Tech Stack: 
 - JDK 11
-- Spring Boot (2.1.4)
+- Spring Boot (2.6.2)
 - Maven
 - JPA
-- JUnit (5.3.1)
+- JUnit (5.8.2)
 - Mockito
 - Hamcrest
 
